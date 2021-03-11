@@ -8,6 +8,6 @@ Dit is gewoon tekst
 
 heel **vet**
 
-![dolly](./cloning/cloning.jpg) 
+![dolly](.\cloning\cloning.jpg) 
 
 verandering
