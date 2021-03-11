@@ -1,4 +1,4 @@
-# Dit is een titel
+# This is the cloning page
 
 ## Dit is een ondertitel
 
@@ -8,4 +8,6 @@ Dit is gewoon tekst
 
 heel **vet**
 
-[link](./cloning/cloning.html)
+![dolly](cloning.jpg) 
+
+veranderingen
