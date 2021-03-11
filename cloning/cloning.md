@@ -10,4 +10,4 @@ heel **vet**
 
 ![dolly](cloning.jpg) 
 
-veranderingen
+verandering
