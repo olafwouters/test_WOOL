@@ -12,4 +12,4 @@ heel **vet**
 
 ![dolly](dolly.jpg)
 
-verandering
+veranderingen
