@@ -8,6 +8,8 @@ Dit is gewoon tekst
 
 heel **vet**
 
-![dolly](/cloning/cloning.jpg) 
+![cloning](cloning.jpg) 
+
+![dolly](dolly.jpg)
 
 verandering
