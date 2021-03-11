@@ -8,7 +8,6 @@ Dit is gewoon tekst
 
 heel **vet**
 
-[link](./cloning page/cloning.html)
+[link](./cloning/cloning.html)
 
 
-test
